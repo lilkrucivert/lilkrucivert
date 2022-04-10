@@ -1,2 +1,1 @@
-<iframe width="300" height="200" src="https://lilkrucivert.com/">
-</iframe>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilkrucivert)](https://github.com/anuraghazra/github-readme-stats)
